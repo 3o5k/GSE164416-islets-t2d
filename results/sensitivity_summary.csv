@@ -1,0 +1,3 @@
+"analysis","lfc_correlation","sig_main","still_significant","same_direction"
+"All samples (n = 57)",0.944461081783086,3085,2379,0.99902755267423
+"Without outlier (n = 38)",0.996225922245795,3074,2992,1
