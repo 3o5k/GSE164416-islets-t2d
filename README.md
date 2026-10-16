@@ -109,7 +109,7 @@ Neither the purity filter nor the outlier sample drives the conclusions.
 ## Author
 
 **Abdulmohsen Almutairi**
-MSc Biochemistry & Bioinformatics, University of Jeddah
+MSc Biochemistry at University of Jeddah
 abdulmohsen.khalef@gmail.com
 
 ## License
